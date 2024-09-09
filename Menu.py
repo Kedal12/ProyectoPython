@@ -1,7 +1,6 @@
 def punto1():
     print("Ejercicio Punto 1")
-    # Código para el ejercicio 1
-
+    # Código para el ejercicio 14
 def punto2():
     print("Ejercicio Punto 2")
     # Código para el ejercicio 2
@@ -11,9 +10,8 @@ def punto3():
     # Código para el ejercicio 3
 
 def punto4():
-    print("Ejercicio Punto 4")
+    print("Ejercicio Punto4")
     # Código para el ejercicio 4
-
 def punto5():
     print("Ejercicio Punto 5")
     # Código para el ejercicio 5
@@ -83,5 +81,5 @@ def main():
         else:
             print("Opción no válida. Por favor, seleccione un número del 0 al 10.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
